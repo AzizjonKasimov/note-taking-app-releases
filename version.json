@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.3/Notes-1.3.apk",
-  "notes": "Organize your notes into notebooks"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.4/Notes-1.4.apk",
+  "notes": "Rich text: formatting, lists, and tappable links"
 }
