@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.4/Notes-1.4.apk",
-  "notes": "Rich text: formatting, lists, and tappable links"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.5/Notes-1.5.apk",
+  "notes": "Smart lists while typing, and paste keeps its formatting"
 }
