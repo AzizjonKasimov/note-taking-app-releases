@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.6/Notes-1.6.apk",
-  "notes": "Fixed dark-mode text readability and added a Settings theme override for System, Light, and Dark modes."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.7/Notes-1.7.apk",
+  "notes": "Added GitHub SQL backup."
 }
