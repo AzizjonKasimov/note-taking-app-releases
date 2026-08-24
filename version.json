@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.7/Notes-1.7.apk",
-  "notes": "Added GitHub SQL backup."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.8/Notes-1.8.apk",
+  "notes": "Removed swipe-to-delete; added recoverable Trash with restore and confirmed permanent deletion; added GitHub SQL backup and restore."
 }
