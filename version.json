@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v1.9/Notes-1.9.apk",
-  "notes": "Added visual notebook markers with custom photos and GitHub media backup. Added crash-safe local autosave, save status, and automatic editor resume after app restarts."
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.0/Notes-2.0.apk",
+  "notes": "Added phone-friendly list indent and outdent controls, automatic Markdown formatting on normal paste, and nested visual-list normalization."
 }
