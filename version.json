@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.0/Notes-2.0.apk",
-  "notes": "Added phone-friendly list indent and outdent controls, automatic Markdown formatting on normal paste, and nested visual-list normalization."
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.1/Notes-2.1.apk",
+  "notes": "Voice notes: tap the mic in a note, or the new mic button above +, and talk for as long as you like. Speech becomes text on your phone, offline, after a one-time download of the speech model (661 MB, over Wi-Fi). Add names to spell right in Settings, Voice notes."
 }
