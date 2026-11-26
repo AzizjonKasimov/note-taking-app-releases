@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.3/Notes-2.3.apk",
-  "notes": "Notes now opens on Today, built from the reminder list in your repo (reminders/upcoming.md): what is due today, tasks still open from the past week, questions to answer, and the next seven days' events. Tick a task (with Undo), skip it, move it to another day, or answer a question by typing or speaking; each change is saved to GitHub as its own commit. A notification at 8:00 lists what is due, and one at 20:00 the evening before an event lists what to prepare. Each morning the app also adds checklist steps and repeating events, now including yearly ones, and moves old events to the past list. After updating, open Today and allow notifications."
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.4/Notes-2.4.apk",
+  "notes": "Tell me anything: at the bottom of Today is a box where you type or say anything, and an AI assistant files it in your notes repo: a dated reminder into your reminder list, an idea with your ideas, a fact into its topic's file, and anything else into the inbox folder. Ask it a question and it answers from your notes. Each change it makes is saved as a change of its own and listed under its reply with Undo. Pick the model (Haiku, Sonnet, or Opus) and how deeply it thinks; your pick is kept. It works through your own AI gateway: add its key in Settings, Assistant. Your repo's ASSISTANT.md says where things go. Also fixed: the microphone is asked for before any recording, so a mic button can no longer close the app."
 }
