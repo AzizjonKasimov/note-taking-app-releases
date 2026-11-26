@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.2/Notes-2.2.apk",
-  "notes": "Notes now works with your own notes repo on GitHub. Connect once with a fine-grained token: the repo's folders become notebooks, and its Markdown files become notes. Changes sync with GitHub on their own, so your phone and your PC share the same notes. If both change the same lines, the note keeps both versions until you choose one. Voice notes work as before. Notes from the old list move into the repo's inbox folder when you first connect."
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/AzizjonKasimov/note-taking-app-releases/releases/download/v2.3/Notes-2.3.apk",
+  "notes": "Notes now opens on Today, built from the reminder list in your repo (reminders/upcoming.md): what is due today, tasks still open from the past week, questions to answer, and the next seven days' events. Tick a task (with Undo), skip it, move it to another day, or answer a question by typing or speaking; each change is saved to GitHub as its own commit. A notification at 8:00 lists what is due, and one at 20:00 the evening before an event lists what to prepare. Each morning the app also adds checklist steps and repeating events, now including yearly ones, and moves old events to the past list. After updating, open Today and allow notifications."
 }
